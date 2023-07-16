@@ -1,17 +1,17 @@
 {
    "maps":[
-     {
-       "name":{
-         "it": "Castelvetrano + Selinunte + Triscina"
-       },
-       "description":{
-         "it": ""
-       },
-       "author":"giopalma",
-       "imageUrl":"https://images.unsplash.com/photo-1653843812123-cf8091f86d74?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=cro&w=500&h=230",
-       "url":"https://raw.githubusercontent.com/giopalma/Geoguess/master/public/geojson/maps/castelvetrano.geojson",
-       "id":"castelvetrano"
-     },
+      {
+         "name":{
+            "it":"Castelvetrano + Selinunte + Triscina"
+         },
+         "description":{
+            "it":""
+         },
+         "author":"giopalma",
+         "imageUrl":"https://images.unsplash.com/photo-1653843812123-cf8091f86d74?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=cro&w=500&h=230",
+         "url":"https://raw.githubusercontent.com/giopalma/Geoguess/master/public/geojson/maps/castelvetrano.geojson",
+         "id":"castelvetrano"
+      },
       {
          "name":{
             "de":"Unesco Weltkulturerbe",
