@@ -222,7 +222,7 @@ export default {
             const data = await axios
                 .get(
                     process.env.VUE_APP_LIST_MAPS_JSON_URL ||
-                        'https://maps.geoguess.games/maps.json',
+                        'https://raw.githubusercontent.com/giopalma/Geoguess/master/maps.json',
                     {
                         cache: {
                             maxAge: 1000,
